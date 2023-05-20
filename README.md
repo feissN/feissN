@@ -40,6 +40,14 @@
 <img src="https://hub.knime.com/og-image-256.png" width="50" height="50">
 </p>
 
+
+<div id="badges">
+ <h3>Get in touch</h3>
+  <a href="https://www.linkedin.com/in/normanfeiss/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+</div>
+
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=feissN)](https://git.io/streak-stats)
 **feissN/feissN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,6 +11,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="50" height="50"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="50" height="50"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  width="50" height="50">  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"  width="50" height="50">  
 </p> 
 
 ### Backend
